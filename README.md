@@ -36,5 +36,5 @@ BASE_URL : localhost:8080
 ## Installation
 1. Install the application using Go:
    ```bash
-   $ go install github.com/adrianfinantyo/jkt48-showroom-cli
+   $ go install github.com/khangle880/living-plan
    ```
